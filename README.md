@@ -10,3 +10,5 @@
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
+
+[![Update Weather in README](https://github.com/Dongho7/fisa05_weather/actions/workflows/update_weather.yml/badge.svg)](https://github.com/Dongho7/fisa05_weather/actions/workflows/update_weather.yml)
